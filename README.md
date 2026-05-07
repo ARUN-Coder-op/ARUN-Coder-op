@@ -1,55 +1,41 @@
-<h1 align="center">Arun</h1>
+# 👋 Hi, I'm Arun
 
-<p align="center">
-  CSE Student • Software Developer • Open Source Learner
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Developer;Full+Stack+Learner;Machine+Learning+Enthusiast" />
-</p>
+🎓 **CSE Student** | 💻 **Software Developer** | 🌱 **Open Source Contributor**
 
 ---
 
-## About
-
-```python
-class Arun:
-    def __init__(self):
-        self.education = "CSE"
-        self.languages = ["Python", "C++", "JavaScript", "TypeScript"]
-        self.interests = ["Web Dev", "Machine Learning", "Open Source"]
-```
+### 🚀 About Me
+- 🔭 I’m currently working on **Machine Learning** and **Web Development** projects.  
+- 🌱 I’m learning **Deep Learning**, **MLOps**, and **Cloud Integration**.  
+- 💬 Ask me about **Python**, **C++**, **TypeScript**, or **React**.  
+- 📫 How to reach me: **[LinkedIn](your-link)** or **[Email](mailto:youremail@example.com)**
 
 ---
 
-## Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,git,github,vscode" />
-
-</p>
+### 🛠 Tech Stack
+**Languages:** Python | C++ | JavaScript | TypeScript  
+**Frameworks:** React | Node.js | Flask | Django | TensorFlow  
+**Tools:** Git | VS Code | Linux | Docker | GitHub Actions  
+**Databases:** MySQL | MongoDB | PostgreSQL
 
 ---
 
-## Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ARUN-Coder-op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUN-Coder-op&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
+### 📊 GitHub Stats
+![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARUN-Coder-op&show_icons=true&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUN-Coder-op&layout=compact&theme=react)
 
 ---
 
-## Streak
+### 🌟 Featured Projects
+- [📘 Project 1: Your ML Model Name](https://github.com/ARUN-Coder-op/your-project)  
+  _Short description of what it does and tech used_
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ARUN-Coder-op&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
+- [💻 Project 2: Web App Name](https://github.com/ARUN-Coder-op/another-project)  
+  _Brief one-liner about its purpose_
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ARUN-Coder-op&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](your-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](your-portfolio-link)
+[![Email](https://img.shields.io/badge/Email-gray?logo=gmail&logoColor=white)](mailto:youremail@example.com)

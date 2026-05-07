@@ -1,83 +1,55 @@
-<h1 align="center">Hi 👋, I'm Arun</h1>
-
-<h3 align="center">CSE Student • Developer • Problem Solver</h3>
+<h1 align="center">Arun</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=CSE+Student;Python+Developer;Machine+Learning+Learner;Open+Source+Enthusiast" />
+  CSE Student • Software Developer • Open Source Learner
 </p>
-
----
-
-# 🚀 About Me
-
-- 🎓 CSE Student
-- 💻 Passionate about Software Development
-- 🌱 Currently learning Full Stack Development & Machine Learning
-- ⚡ Interested in Open Source & Problem Solving
-
----
-
-# 🛠 Tech Stack
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" />
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-</p>
-
----
-
-# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARUN-Coder-op&show_icons=true&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python+Developer;Full+Stack+Learner;Machine+Learning+Enthusiast" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## About
+
+```python
+class Arun:
+    def __init__(self):
+        self.education = "CSE"
+        self.languages = ["Python", "C++", "JavaScript", "TypeScript"]
+        self.interests = ["Web Dev", "Machine Learning", "Open Source"]
+```
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ARUN-Coder-op&theme=tokyonight" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,git,github,vscode" />
+
 </p>
 
 ---
 
-# 💻 Top Languages
+## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUN-Coder-op&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ARUN-Coder-op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUN-Coder-op&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+## Streak
 
-- 🚀 Data Structures & Algorithms
-- 🐍 Python Projects
-- 🌐 Web Development Projects
-- 🤖 Machine Learning Projects
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ARUN-Coder-op&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/ARUN-Coder-op" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />
-</a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ARUN-Coder-op&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
